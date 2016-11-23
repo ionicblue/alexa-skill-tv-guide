@@ -1,0 +1,89 @@
+{
+  "id": 4395,
+  "url": "http://www.tvmaze.com/shows/4395/strictly-come-dancing",
+  "name": "Strictly Come Dancing",
+  "type": "Reality",
+  "language": "English",
+  "genres": ["Family"],
+  "status": "Running",
+  "runtime": 60,
+  "premiered": "2004-05-15",
+  "schedule": {
+    "time": "",
+    "days": ["Saturday", "Sunday"]
+  },
+  "rating": {
+    "average": 7
+  },
+  "weight": 1,
+  "network": {
+    "id": 12,
+    "name": "BBC One",
+    "country": {
+      "name": "United Kingdom",
+      "code": "GB",
+      "timezone": "Europe/London"
+    }
+  },
+  "webChannel": null,
+  "externals": {
+    "tvrage": 6747,
+    "thetvdb": 83127,
+    "imdb": "tt0411027"
+  },
+  "image": {
+    "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/20/51694.jpg",
+    "original": "http://tvmazecdn.com/uploads/images/original_untouched/20/51694.jpg"
+  },
+  "summary": "<p>Are today's celebrities fleet of foot or do they have two left feet? That's the question Tess Daly and Claudia Winkleman will be finding the answer to when they present <strong><em>\"Strictly Come Dancing\"</em></strong>.</p>",
+  "updated": 1479339047,
+  "_links": {
+    "self": {
+      "href": "http://api.tvmaze.com/shows/4395"
+    },
+    "previousepisode": {
+      "href": "http://api.tvmaze.com/episodes/987750"
+    },
+    "nextepisode": {
+      "href": "http://api.tvmaze.com/episodes/987897"
+    }
+  },
+  "_embedded": {
+    "previousepisode": {
+      "id": 987750,
+      "url": "http://www.tvmaze.com/episodes/987750/strictly-come-dancing-14x19-week-9-the-results-show",
+      "name": "Week 9 - The Results Show",
+      "season": 14,
+      "number": 19,
+      "airdate": "2016-11-20",
+      "airtime": "19:15",
+      "airstamp": "2016-11-20T19:15:00+00:00",
+      "runtime": 45,
+      "image": null,
+      "summary": "<p>Tess Daly and Claudia Winkleman\n welcome viewers to another exciting results show from the world-famous \nBlackpool Tower Ballroom. The judges' scores and public votes have been \ncombined, and the two couples with the lowest score dance off against \neach other, before seven couples become six. Rick Astley performs a \ntrack from his new album and Simple Minds perform their classic hit, \nDon't You Forget About Me.</p>",
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/episodes/987750"
+        }
+      }
+    },
+    "nextepisode": {
+      "id": 987897,
+      "url": "http://www.tvmaze.com/episodes/987897/strictly-come-dancing-14x20-week-10",
+      "name": "Week 10",
+      "season": 14,
+      "number": 20,
+      "airdate": "2016-11-26",
+      "airtime": "19:00",
+      "airstamp": "2016-11-26T19:00:00+00:00",
+      "runtime": 70,
+      "image": null,
+      "summary": "<p>Following\n last weekend's show from the sensational Blackpool Tower ballroom, \nStrictly Come Dancing returns back home to Elstree as the six remaining \ncouples take to the floor. </p><p>Tess Daly and Claudia \nWinkleman present, as the battle for the Glitterball trophy really heats\n up as the remaining couples dance to impress the ballroom bigwigs of \nLen Goodman, Darcey Bussell, Bruno Tonioli and Craig Revel Horwood with \ntheir Ballroom and Latin routines as they face another dance.</p><p>Plus after performing their individual routines, all six couples will\n dance a Cha Cha at the same time in the Cha Cha Challenge, which is \nbrand new for 2016 and is where everyone will be hoping to impress the \njudges for valuable extra points. The leaderboard could be turned upside\n down at this crucial stage of the competition.</p><p>Once the couples have performed their routine and taken part in the \nCha Cha Challenge, the voting lines will open and it will be up to the \npublic to decide which two couples must face each other, and the judges,\n to dance for their survival in Sunday's Results Show.</p>",
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/episodes/987897"
+        }
+      }
+    }
+  }
+}

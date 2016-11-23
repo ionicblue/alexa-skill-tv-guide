@@ -1,0 +1,21 @@
+{
+  "intents": [{
+    "intent": "OneshotTvGuideIntent",
+    "slots": [{
+      "name": "Date",
+      "type": "AMAZON.DATE"
+    }]
+  }, {
+    "intent": "DialogTvGuideIntent",
+    "slots": [{
+      "name": "Date",
+      "type": "AMAZON.DATE"
+    }]
+  }, {
+    "intent": "AMAZON.HelpIntent"
+  }, {
+    "intent": "AMAZON.StopIntent"
+  }, {
+    "intent": "AMAZON.CancelIntent"
+  }]
+}

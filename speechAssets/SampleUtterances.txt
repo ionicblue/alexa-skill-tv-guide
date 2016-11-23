@@ -1,0 +1,86 @@
+DialogTvGuideIntent {City}
+DialogTvGuideIntent {City} {State}
+DialogTvGuideIntent {Date}
+
+OneshotTvGuideIntent get high tide
+OneshotTvGuideIntent get high tide for {City} {State}
+OneshotTvGuideIntent get high tide for {City} {State} {Date}
+OneshotTvGuideIntent get high tide for {City} {Date}
+OneshotTvGuideIntent get high tide for {Date}
+OneshotTvGuideIntent get high tide {Date}
+OneshotTvGuideIntent get the high tide for {City} {Date}
+OneshotTvGuideIntent get the next tide for {City} for {Date}
+OneshotTvGuideIntent get the tides for {Date}
+OneshotTvGuideIntent get tide information for {City}
+OneshotTvGuideIntent get tide information for {City} {State}
+OneshotTvGuideIntent get tide information for {City} {State} on {Date}
+OneshotTvGuideIntent get tide information for {City} city
+OneshotTvGuideIntent get tide information for {City} for {Date}
+OneshotTvGuideIntent get tide information for {City} on {Date}
+OneshotTvGuideIntent get tide information for {City} {Date}
+OneshotTvGuideIntent get tides for {City}
+OneshotTvGuideIntent get tides for {City} {State}
+OneshotTvGuideIntent get tides for {City} {State} {Date}
+OneshotTvGuideIntent get tides for {City} {Date}
+OneshotTvGuideIntent tide information
+OneshotTvGuideIntent tide information for {City}
+OneshotTvGuideIntent tide information for {City} {State}
+OneshotTvGuideIntent tide information for {City} on {Date}
+OneshotTvGuideIntent tide information for {Date}
+OneshotTvGuideIntent when high tide is
+OneshotTvGuideIntent when is high tide
+OneshotTvGuideIntent when is high tide for {City} {Date}
+OneshotTvGuideIntent when is high tide in {City}
+OneshotTvGuideIntent when is high tide in {City} {State}
+OneshotTvGuideIntent when is high tide in {City} city
+OneshotTvGuideIntent when is high tide in {City} on {Date}
+OneshotTvGuideIntent when is high tide on {Date}
+OneshotTvGuideIntent when is high tide {Date}
+OneshotTvGuideIntent when is next tide
+OneshotTvGuideIntent when is next tide in {City} {State}
+OneshotTvGuideIntent when is next tide in {City} {State} on {Date}
+OneshotTvGuideIntent when is next tide on {Date}
+OneshotTvGuideIntent when is the highest tide in {City}
+OneshotTvGuideIntent when is the highest tide in {City} {Date}
+OneshotTvGuideIntent when is the highest tide {Date}
+OneshotTvGuideIntent when is the next high tide {Date}
+OneshotTvGuideIntent when is the next highest water
+OneshotTvGuideIntent when is the next highest water for {City}
+OneshotTvGuideIntent when is the next highest water for {City} {State} for {Date}
+OneshotTvGuideIntent when is the next highest water for {City} {State}
+OneshotTvGuideIntent when is the next highest water for {Date}
+OneshotTvGuideIntent when is the next tide for {City}
+OneshotTvGuideIntent when is the next tide for {City} {State}
+OneshotTvGuideIntent when is the next tide for {City} city
+OneshotTvGuideIntent when is the next tide for {City} for {Date}
+OneshotTvGuideIntent when is the next tide for {Date}
+OneshotTvGuideIntent when is today's high tide
+OneshotTvGuideIntent when is today's highest tide {Date}
+OneshotTvGuideIntent when will the water be highest for {City}
+OneshotTvGuideIntent when will the water be highest for {City} for {Date}
+OneshotTvGuideIntent when will the water be highest for {Date}
+OneshotTvGuideIntent when will the water be highest {Date}
+OneshotTvGuideIntent when is high tide on {Date}
+OneshotTvGuideIntent when is the next tide for {Date}
+OneshotTvGuideIntent when is next tide on {Date}
+OneshotTvGuideIntent get the tides for {Date}
+OneshotTvGuideIntent when is the highest tide {Date}
+OneshotTvGuideIntent when is the next highest water for {Date}
+OneshotTvGuideIntent when is high tide on {Date}
+OneshotTvGuideIntent get high tide for {Date}
+OneshotTvGuideIntent get high tide {Date}
+OneshotTvGuideIntent when is high tide {Date}
+OneshotTvGuideIntent tide information for {Date}
+OneshotTvGuideIntent when is high tide in {City} on {Date}
+OneshotTvGuideIntent get the next tide for {City} for {Date}
+OneshotTvGuideIntent get high tide for {City} California {Date}
+OneshotTvGuideIntent when is high tide for {City} {Date}
+OneshotTvGuideIntent tide information for {City} on {Date}
+OneshotTvGuideIntent when is high tide in {City} on {Date}
+OneshotTvGuideIntent when is the next tide for {City} for {Date}
+OneshotTvGuideIntent when is next tide in {City} {State} on {Date}
+OneshotTvGuideIntent get high tide for {City} {Date}
+OneshotTvGuideIntent get the high tide for {City} {Date}
+OneshotTvGuideIntent tide information for {City} on {Date}
+OneshotTvGuideIntent get tide information for {City} on {Date}
+OneshotTvGuideIntent get tides for {City} {Date}

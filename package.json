@@ -1,0 +1,38 @@
+{
+  "name": "alexa-skill-tv-guide",
+  "version": "1.0.0",
+  "description": "A [AWS Lambda](http://aws.amazon.com/lambda) function that is used to fetch TV show schedules for a skill for the Amazon Echo using the Alexa SDK.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest-cli": "^17.0.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionicblue/alexa-skill-tv-guide.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Daniel Beet",
+    "email": "dan@ionicblue.com",
+    "url": "https://github.com/daniel-beet"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ionicblue/alexa-skill-tv-guide/issues"
+  },
+  "homepage": "https://github.com/ionicblue/alexa-skill-tv-guide#readme",
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": true,
+    "collectCoverageFrom": ["src/**/*.js"],
+    "coverageDirectory": "dist/coverage",
+    "coverageReporters": ["json", "text", "html"]
+  }
+}

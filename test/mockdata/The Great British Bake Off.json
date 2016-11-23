@@ -1,0 +1,71 @@
+{
+  "id": 2950,
+  "url": "http://www.tvmaze.com/shows/2950/the-great-british-bake-off",
+  "name": "The Great British Bake Off",
+  "type": "Game Show",
+  "language": "English",
+  "genres": ["Food"],
+  "status": "Running",
+  "runtime": 60,
+  "premiered": "2010-08-17",
+  "schedule": {
+    "time": "20:00",
+    "days": ["Wednesday"]
+  },
+  "rating": {
+    "average": 9.1
+  },
+  "weight": 0,
+  "network": {
+    "id": 45,
+    "name": "Channel 4",
+    "country": {
+      "name": "United Kingdom",
+      "code": "GB",
+      "timezone": "Europe/London"
+    }
+  },
+  "webChannel": null,
+  "externals": {
+    "tvrage": 26332,
+    "thetvdb": 184871,
+    "imdb": "tt1877368"
+  },
+  "image": {
+    "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/16/40349.jpg",
+    "original": "http://tvmazecdn.com/uploads/images/original_untouched/16/40349.jpg"
+  },
+  "summary": "<p><em>The Great British Bake Off</em> sees ten passionate home bakers take part in a bake-off to test every aspect of their baking skills as they battle to be crowned the Great British Bake Off's best amateur baker. Each week the nationwide tour sees keen bakers put through three challenges in a particular discipline. The competition kicks off with cake in the Cotswolds, then moves to Scotland to tackle biscuit baking, then Sandwich in Kent for bread, Bakewell in Derbyshire for puddings, Mousehole in Cornwall for the pastry challenges, and London for the grand final. Judging the baking are renowned baking writer Mary Berry and professional baker Paul Hollywood; presenting the show are Mel Giedroyc and Sue Perkins, who trace the very particular history of British baking by visiting local baking landmarks and discovering why people bake what they bake today.</p>",
+  "updated": 1478894723,
+  "_links": {
+    "self": {
+      "href": "http://api.tvmaze.com/shows/2950"
+    },
+    "previousepisode": {
+      "href": "http://api.tvmaze.com/episodes/904687"
+    }
+  },
+  "_embedded": {
+    "previousepisode": {
+      "id": 904687,
+      "url": "http://www.tvmaze.com/episodes/904687/the-great-british-bake-off-7x10-the-final",
+      "name": "The Final",
+      "season": 7,
+      "number": 10,
+      "airdate": "2016-10-26",
+      "airtime": "20:00",
+      "airstamp": "2016-10-26T20:00:00+01:00",
+      "runtime": 60,
+      "image": {
+        "medium": "http://tvmazecdn.com/uploads/images/medium_landscape/82/205565.jpg",
+        "original": "http://tvmazecdn.com/uploads/images/original_untouched/82/205565.jpg"
+      },
+      "summary": "<p>It is the final, and with just three of the original twelve bakers remaining. The theme for the final is a Royal Bake Off, as the tent plays host to three challenges to impress the Queen.</p><p>The last signature<span> challenge sees a return to meringues, a challenge that a few of the bakers stumbled over in week six.</span></p><p>For the technical challenge, Mary has made a simple bake very, very tough, as she has only given the bakers one recipe instruction. The rest is down to them. It may be a very British classic, but with no measurements, this is the ultimate test of the final three bakers' intuition.</p><p>Then on the final day, as the bakers' families gather outside the tent, the finalists face their last showstopper. This is the most complex one ever seen on Bake Off, and there are the most bakes ever requested in a challenge. With only one oven, it's five solid hours of baking for the finalists to prove they deserve the winner's trophy.</p><p>Who will be named the winner of The Great British Bake Off 2016?</p>",
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/episodes/904687"
+        }
+      }
+    }
+  }
+}

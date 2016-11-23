@@ -1,0 +1,89 @@
+{
+  "id": 5174,
+  "url": "http://www.tvmaze.com/shows/5174/watchdog",
+  "name": "Watchdog",
+  "type": "Documentary",
+  "language": "English",
+  "genres": [],
+  "status": "Running",
+  "runtime": 60,
+  "premiered": "1985-07-14",
+  "schedule": {
+    "time": "20:00",
+    "days": ["Wednesday"]
+  },
+  "rating": {
+    "average": null
+  },
+  "weight": 0,
+  "network": {
+    "id": 12,
+    "name": "BBC One",
+    "country": {
+      "name": "United Kingdom",
+      "code": "GB",
+      "timezone": "Europe/London"
+    }
+  },
+  "webChannel": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 80762,
+    "imdb": "tt0265005"
+  },
+  "image": {
+    "medium": "http://tvmazecdn.com/uploads/images/medium_portrait/44/111028.jpg",
+    "original": "http://tvmazecdn.com/uploads/images/original_untouched/44/111028.jpg"
+  },
+  "summary": "<p><em>Watchdog</em> is a BBC television series that investigates viewers' reports of problematic experiences with traders, retailers, and other companies around the UK. It has had great success in changing the awareness consumers have of their purchasing rights and in changing policies of companies, closing businesses down and pushing for law changes.</p>",
+  "updated": 1479431301,
+  "_links": {
+    "self": {
+      "href": "http://api.tvmaze.com/shows/5174"
+    },
+    "previousepisode": {
+      "href": "http://api.tvmaze.com/episodes/986659"
+    },
+    "nextepisode": {
+      "href": "http://api.tvmaze.com/episodes/987837"
+    }
+  },
+  "_embedded": {
+    "previousepisode": {
+      "id": 986659,
+      "url": "http://www.tvmaze.com/episodes/986659/watchdog-37x03-episode-3",
+      "name": "Episode 3",
+      "season": 37,
+      "number": 3,
+      "airdate": "2016-11-16",
+      "airtime": "20:00",
+      "airstamp": "2016-11-16T20:00:00+00:00",
+      "runtime": 60,
+      "image": null,
+      "summary": "<p>Consumer series with Matt Allwright, Sophie Raworth and Steph McGovern. \nBuying something from an online deals site? You could end up with fake \nproducts. Plus is enough being done to protect us from car fires? Team \nWatchdog members reveal how to save hundreds on your household bills.</p>",
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/episodes/986659"
+        }
+      }
+    },
+    "nextepisode": {
+      "id": 987837,
+      "url": "http://www.tvmaze.com/episodes/987837/watchdog-37x04-episode-4",
+      "name": "Episode 4",
+      "season": 37,
+      "number": 4,
+      "airdate": "2016-11-23",
+      "airtime": "20:00",
+      "airstamp": "2016-11-23T20:00:00+00:00",
+      "runtime": 60,
+      "image": null,
+      "summary": "<p>Consumer series with Matt Allwright, Sophie Raworth and Steph McGovern.</p>",
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/episodes/987837"
+        }
+      }
+    }
+  }
+}
