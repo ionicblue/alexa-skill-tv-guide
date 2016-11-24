@@ -1,17 +1,13 @@
-# Sample AWS Lambda function for Alexa
+# TV Guide Skill for Amazon Echo using an AWS Lambda function 
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK.
 
 ## Concepts
 This sample shows how to create a Lambda function for handling Alexa Skill requests that:
 
-- Web service: communicate with an external web service to get tide data from the [NOAA CO-OPS API](http://tidesandcurrents.noaa.gov/api/)
-- Multiple optional slots: has 2 slots (city and date), where the user can provide 0, 1, or 2 values, and assumes defaults for the unprovided values
-- DATE slot: demonstrates date handling and formatted date responses appropriate for speech
-- Custom slot type: demonstrates using custom slot types to handle a finite set of known values
+- Web service: communicate with an external web service to get TV guide data from the [TVmaze](http://www.tvmaze.com/api/)
 - Dialog and Session state: Handles two models, both a one-shot ask and tell model, and a multi-turn dialog model.
   If the user provides an incorrect slot in a one-shot model, it will direct to the dialog model. See the
   examples section for sample interactions of these models.
-- Pre-recorded audio: Uses the SSML 'audio' tag to include an ocean wave sound in the welcome response.
 
 ## Setup
 To run this example skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
@@ -20,7 +16,7 @@ To run this example skill you need to do two things. The first is to deploy the 
 1. Go to the AWS Console and click on the Lambda link. Note: ensure you are in us-east or you won't be able to use Alexa with Lambda.
 2. Click on the Create a Lambda Function or Get Started Now button.
 3. Skip the blueprint
-4. Name the Lambda Function "Tide-Pooler-Example-Skill".
+4. Name the Lambda Function "TV-Guide-Skill".
 5. Select the runtime as Node.js
 6. Go to the the src directory, select all files and then create a zip file, make sure the zip file does not contain the src directory itself, otherwise Lambda function will not work.
 7. Select Code entry type as "Upload a .ZIP file" and then upload the .zip file to the Lambda
@@ -34,7 +30,7 @@ To run this example skill you need to do two things. The first is to deploy the 
 
 ### Alexa Skill Setup
 1. Go to the [Alexa Console](https://developer.amazon.com/edw/home.html) and click Add a New Skill.
-2. Set "Tide Pooler" for the skill name and "tide pooler" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, Ask tide pooler when is high tide in Seattle."
+2. Set "TV Guide" for the skill name and "TV guide" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, Ask TV Guide when Watchdog is next on."
 3. Select the Lambda ARN for the skill Endpoint and paste the ARN copied from above. Click Next.
 4. Copy the custom slot types from the customSlotTypes folder. Each file in the folder represents a new custom slot type. The name of the file is the name of the custom slot type, and the values in the file are the values for the custom slot.
 5. Copy the Intent Schema from the included IntentSchema.json.
