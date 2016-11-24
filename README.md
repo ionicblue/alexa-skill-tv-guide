@@ -45,13 +45,14 @@ To run this example skill you need to do two things. The first is to deploy the 
 Example user interactions:
 
 ### One-shot model:
-    User:  "Alexa, ask Tide Pooler when is the high tide in Seattle on Saturday"
-    Alexa: "Saturday June 20th in Seattle the first high tide will be around 7:18 am, and will peak at ..."
+    User:  "Alexa, ask TV Guide when Strictly Come Dancing is next on?"
+    Alexa: "Strictly Come Dancing is scheduled for 7:10 pm on Saturday, 26th November 2016."
+
+    User:  "Alexa, ask TV Guide when The Great British Bake Off is next on?"
+    Alexa: "The Great British Bake Off has no more programs scheduled."
 
 ### Dialog model:
-    User:  "Alexa, open Tide Pooler"
-    Alexa: "Welcome to Tide Pooler. Which city would you like tide information for?"
-    User:  "Seattle"
-    Alexa: "For which date?"
-    User:  "this Saturday"
-    Alexa: "Saturday June 20th in Seattle the first high tide will be around 7:18 am, and will peak at ..."
+    User:  "Alexa, open TV Guide"
+    Alexa: "Welcome to TV Guide. Which show would you like schedule information for?"
+    User:  "Watchdog"
+    Alexa: "Watchdog is scheduled for 8:00 pm on Wednesday, 30th November 2016."
