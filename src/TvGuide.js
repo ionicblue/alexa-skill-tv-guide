@@ -3,7 +3,7 @@
 /**
  * App ID for the skill
  */
-const APP_ID = 'amzn1.ask.skill.8dbcc343-390e-4a54-97b9-78d8cb7b0190'; //replace with 'amzn1.ask.skill.[your-unique-value-here]';
+const APP_ID = process.env.SKILL_APP_ID; //replace with 'amzn1.ask.skill.[your-unique-value-here]';
 
 const http = require('http');
 const alexaDateUtil = require('./alexaDateUtil');
